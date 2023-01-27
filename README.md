@@ -16,5 +16,5 @@ An education company named X Education sells online courses to industry professi
 ## Details of files given
 - LeadScoringCaseStudy_MariyaReshmaKartik.ipynb : The python file showing coding and data analysis
 - Assignment Subjective Questions.pdf : Some subjective questions answered
-- Lead Score Case Study.pdf : Final Presentation
-- Summary.pdf : Summary on what's done in the entire LeadScoringCaseStudy_MariyaReshmaKartik.ipynb file
+- Lead-Score-Case-Study_ppt.pdf : Final Presentation
+- Summary_case_study.pdf : Summary on what's done in the entire LeadScoringCaseStudy_MariyaReshmaKartik.ipynb file
